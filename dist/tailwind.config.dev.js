@@ -17,6 +17,8 @@ module.exports = {
         "warning": "#FFA900",
         "info": "#39C0ED",
         "light": "#FBFBFB",
+        "brand-hov": "#141735",
+        "brand2-hov": "#cc682a",
         "primary-hov": "#0c56d0",
         "secondary-hov": "#a316fd",
         "success-hov": "#00913b",
