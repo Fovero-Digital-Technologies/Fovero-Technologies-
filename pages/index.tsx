@@ -44,13 +44,13 @@ const Home: NextPage = () => {
         <div className="min-h-[calc(100vh-67px)] h-full px-5 flex flex-col items-center justify-center gap-y-10 text-center pb-10">
         {/* <div className="h-full flex-1 flex flex-col items-center justify-center gap-y-10 text-center"> */}
           <div>
-            <h2 className="text-lg dark:text-white mb-3 tracking-wider">
+            <h2 className="text-lg text-dark dark:text-white mb-3 tracking-wider">
             HELLO! WE ARE{" "}
             <span className="block text-5xl text-brand font-bold mt-1 dark:text-brand2">
               COMING SOON...
             </span>
           </h2>
-          <p className="text-xl text-gray-500 dark:text-light tracking-wider">
+          <p className="text-xl text-gray-700 dark:text-light tracking-wider">
             We are building the best website for you with the best technologies.
           </p>
           </div>

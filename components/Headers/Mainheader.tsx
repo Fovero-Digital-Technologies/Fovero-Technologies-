@@ -37,6 +37,7 @@ const MainHeader = (props: any) => {
 }
       <div className="flex gap-6 items-center">
       <MaterialUISwitch
+      aria-label="Change theme"
           sx={{ m: 1 }}
           // defaultChecked={isLight}
           checked={isLight}
