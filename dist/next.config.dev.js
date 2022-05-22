@@ -1,5 +1,7 @@
+"use strict";
+
 /** @type {import('next').NextConfig} */
-const nextConfig = {
+var nextConfig = {
   reactStrictMode: true,
   env: {
     title: "Fovero Digital Technologies",
@@ -8,8 +10,7 @@ const nextConfig = {
   },
   i18n: {
     locales: ["en"],
-    defaultLocale: "en",
-  },
-}
-
-module.exports = nextConfig
+    defaultLocale: "en"
+  }
+};
+module.exports = nextConfig;
